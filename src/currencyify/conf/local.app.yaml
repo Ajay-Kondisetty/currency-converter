@@ -1,0 +1,5 @@
+AppName: "currencyify"
+ServiceName: "Currency Converter"
+RunMode: "dev"
+AutoRender: false
+CopyRequestBody: true
